@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: no value
+  - text: None
+  - text: "null"
+  - text: NaN
+  - text: 0
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8078#comment
+status: Solved
+record: -1
+local_check: false

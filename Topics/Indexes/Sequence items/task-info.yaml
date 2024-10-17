@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - the next-to-last element
+  - the last element
+  - the second element
+  - the first element
+options:
+  - -len(seq)
+  - -len(seq) + 1
+  - len(seq) - 1
+  - len(seq) - 2
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6718#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3

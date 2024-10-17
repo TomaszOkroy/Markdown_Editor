@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: insert()
+  - text: append()
+  - text: remove()
+  - text: extend()
+  - text: add()
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6783#comment
+status: Solved
+record: -1
+local_check: false

@@ -1,0 +1,26 @@
+type: edu
+files:
+  - name: editor.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+  - name: editor.md
+    visible: true
+    learner_created: true
+  - name: output.md
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/12316#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 17 Oct 2024 16:34:53 UTC"
+record: 4
